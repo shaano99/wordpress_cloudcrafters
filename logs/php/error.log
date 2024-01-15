@@ -1,0 +1,74 @@
+[12-Jan-2024 04:02:01 UTC] Sync process for Gutenberg Blocks has started.
+[12-Jan-2024 04:02:01 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[12-Jan-2024 04:02:01 UTC] BLOCK: Requests count 8
+[12-Jan-2024 04:02:01 UTC] BLOCK: Importing request 1 ..
+[12-Jan-2024 04:02:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[12-Jan-2024 04:02:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[12-Jan-2024 04:02:02 UTC] BLOCK: Completed request 1
+[12-Jan-2024 04:02:02 UTC] BLOCK: Importing request 2 ..
+[12-Jan-2024 04:02:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[12-Jan-2024 04:02:03 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[12-Jan-2024 04:02:04 UTC] BLOCK: Completed request 2
+[12-Jan-2024 04:02:04 UTC] BLOCK: Importing request 3 ..
+[12-Jan-2024 04:02:04 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[12-Jan-2024 04:02:05 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[12-Jan-2024 04:02:06 UTC] BLOCK: Completed request 3
+[12-Jan-2024 04:02:06 UTC] BLOCK: Importing request 4 ..
+[12-Jan-2024 04:02:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[12-Jan-2024 04:02:07 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[12-Jan-2024 04:02:07 UTC] BLOCK: Completed request 4
+[12-Jan-2024 04:02:07 UTC] BLOCK: Importing request 5 ..
+[12-Jan-2024 04:02:07 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[12-Jan-2024 04:02:09 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[12-Jan-2024 04:02:09 UTC] BLOCK: Completed request 5
+[12-Jan-2024 04:02:09 UTC] BLOCK: Importing request 6 ..
+[12-Jan-2024 04:02:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[12-Jan-2024 04:02:10 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[12-Jan-2024 04:02:10 UTC] BLOCK: Completed request 6
+[12-Jan-2024 04:02:10 UTC] BLOCK: Importing request 7 ..
+[12-Jan-2024 04:02:10 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[12-Jan-2024 04:02:11 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[12-Jan-2024 04:02:12 UTC] BLOCK: Completed request 7
+[12-Jan-2024 04:02:12 UTC] BLOCK: Importing request 8 ..
+[12-Jan-2024 04:02:12 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[12-Jan-2024 04:02:12 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[12-Jan-2024 04:02:12 UTC] BLOCK: Completed request 8
+[12-Jan-2024 04:02:12 UTC] SITE: Getting Total Sites
+[12-Jan-2024 04:02:12 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[12-Jan-2024 04:02:13 UTC] SITE: Request count 7
+[12-Jan-2024 04:02:13 UTC] SITE: Importing request 1 ..
+[12-Jan-2024 04:02:13 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[12-Jan-2024 04:02:14 UTC] SITE: Storing in option ast-block-templates-sites-1
+[12-Jan-2024 04:02:14 UTC] SITE: Completed request 1
+[12-Jan-2024 04:02:14 UTC] SITE: Importing request 2 ..
+[12-Jan-2024 04:02:14 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[12-Jan-2024 04:02:14 UTC] SITE: Storing in option ast-block-templates-sites-2
+[12-Jan-2024 04:02:14 UTC] SITE: Completed request 2
+[12-Jan-2024 04:02:14 UTC] SITE: Importing request 3 ..
+[12-Jan-2024 04:02:14 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[12-Jan-2024 04:02:15 UTC] SITE: Storing in option ast-block-templates-sites-3
+[12-Jan-2024 04:02:15 UTC] SITE: Completed request 3
+[12-Jan-2024 04:02:15 UTC] SITE: Importing request 4 ..
+[12-Jan-2024 04:02:15 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[12-Jan-2024 04:02:16 UTC] SITE: Storing in option ast-block-templates-sites-4
+[12-Jan-2024 04:02:16 UTC] SITE: Completed request 4
+[12-Jan-2024 04:02:16 UTC] SITE: Importing request 5 ..
+[12-Jan-2024 04:02:16 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[12-Jan-2024 04:02:17 UTC] SITE: Storing in option ast-block-templates-sites-5
+[12-Jan-2024 04:02:17 UTC] SITE: Completed request 5
+[12-Jan-2024 04:02:17 UTC] SITE: Importing request 6 ..
+[12-Jan-2024 04:02:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[12-Jan-2024 04:02:18 UTC] SITE: Storing in option ast-block-templates-sites-6
+[12-Jan-2024 04:02:18 UTC] SITE: Completed request 6
+[12-Jan-2024 04:02:18 UTC] SITE: Importing request 7 ..
+[12-Jan-2024 04:02:18 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[12-Jan-2024 04:02:19 UTC] SITE: Storing in option ast-block-templates-sites-7
+[12-Jan-2024 04:02:19 UTC] SITE: Completed request 7
+[12-Jan-2024 04:02:19 UTC] Sync process for Gutenberg Blocks is done.
+[12-Jan-2024 04:02:19 UTC] BLOCK: Getting Server Custimizer CSS
+[12-Jan-2024 04:02:19 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[12-Jan-2024 04:12:00 UTC] PHP Warning:  Undefined array key "name" in C:\Users\DELL\Local Sites\cloudinsfra\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 851
+[12-Jan-2024 04:12:00 UTC] PHP Warning:  Undefined array key "title" in C:\Users\DELL\Local Sites\cloudinsfra\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 853
+[12-Jan-2024 04:12:00 UTC] PHP Warning:  Undefined array key "name" in C:\Users\DELL\Local Sites\cloudinsfra\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 851
+[12-Jan-2024 04:12:00 UTC] PHP Warning:  Undefined array key "title" in C:\Users\DELL\Local Sites\cloudinsfra\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 853
+[12-Jan-2024 04:18:13 UTC] Cron unschedule event error for hook: wp_cartflows_sync_library_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"wp_cartflows_sync_library_cron_interval","args":[],"interval":300}

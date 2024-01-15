@@ -1,0 +1,1 @@
+2024/01/12 12:12:06 [error] 9168#6908: *6348 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php?action=wp_1_wc_regenerate_images&nonce=f5fb7f8ba4 HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "cloudinsfra.local"
